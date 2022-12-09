@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvesh77&label=Profile%20views&color=0e75b6&style=flat" alt="purvesh77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purvesh77" alt="purvesh77" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@_the_lost_guy_" target="blank"><img src="https://img.shields.io/twitter/follow/@_the_lost_guy_?logo=twitter&style=for-the-badge" alt="@_the_lost_guy_" /></a> </p>
 
 - 🔭 I’m currently working on **Quizzers(Android App)**
