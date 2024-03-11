@@ -5,7 +5,6 @@
 
 <p align="left" margin="100px"> <img src="https://komarev.com/ghpvc/?username=purvesh77&label=Profile%20views&color=0e75b6&style=flat" alt="purvesh77" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@_the_lost_guy_" target="blank"><img src="https://img.shields.io/twitter/follow/@_the_lost_guy_?logo=twitter&style=for-the-badge" alt="@_the_lost_guy_" /></a> </p>
 
 - 🔭 I’m currently working on **Quizzers(Android App)**
 
