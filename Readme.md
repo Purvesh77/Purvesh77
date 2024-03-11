@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Purvesh77?tab=repositories](https://github.com/Purvesh77?tab=repositories)
+- 👨‍💻 All of my projects are available at [Link](https://github.com/Purvesh77?tab=repositories)
 
 - 📫 How to reach me **purveshpatil111@gmail.com**
 
