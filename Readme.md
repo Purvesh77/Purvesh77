@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Quizzers(Android App)**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://tempest-tossed-runs.000webhostapp.com/](https://tempest-tossed-runs.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://tempest-tossed-runs.000webhostapp.com/](https://github.com/Purvesh77?tab=repositories)
 
 - 📫 How to reach me **purveshpatil111@gmail.com**
 
