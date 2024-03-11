@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purvesh Patil</h1>
 <h3 align="center">A passionate web developer and android developer from India</h3>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi" alt="Number of Yasser's Profile Visitors" align="right" />
+<!-- <img align="right" alt="Coder" width="450" margin="50px" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
+<img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" />
 
 <p align="left" margin="100px"> <img src="https://komarev.com/ghpvc/?username=purvesh77&label=Profile%20views&color=0e75b6&style=flat" alt="purvesh77" /> </p>
 
